@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	System.out.println("Greeting from the github");
 	System.out.println("This is from eclipse again");
 	System.out.println("This is from github again");
+	System.out.println("This is again eclipse");
 
 }
 }
